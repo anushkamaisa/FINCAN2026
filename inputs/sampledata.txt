@@ -1,0 +1,57 @@
+KIWI CONSULTANTS LTD
+Financial Summary - Year Ending March 2024
+Exported from Xero
+
+=== INCOME ===
+Consulting Services - Acme Corp: $156,000
+Consulting Services - Beta Industries: $89,500
+Consulting Services - Other Clients (12 clients): $67,200
+Training Workshops: $23,400
+Total Income: $336,100
+
+=== EXPENSES ===
+Salaries & Wages (3 staff): $189,000
+ACC Levies: $2,340
+KiwiSaver Contributions: $5,670
+Office Rent (shared space, 12 months): $24,000
+Software Subscriptions: $8,760
+- Xero: $960
+- Microsoft 365: $1,800
+- Zoom: $2,400
+- Slack: $1,200
+- Other tools: $2,400
+Professional Development: $4,500
+Insurance: $3,200
+Marketing & Website: $6,800
+Travel & Vehicle: $12,400
+Phone & Internet: $2,880
+Office Supplies: $1,890
+Accounting Fees: $4,800
+Legal Fees: $2,100
+Bank Fees: $540
+Depreciation: $3,600
+Miscellaneous: $2,450
+Total Expenses: $275,930
+
+=== PROFIT ===
+Net Profit Before Tax: $60,170
+
+=== BALANCE SHEET SUMMARY ===
+Bank Account (ANZ Business): $34,500
+Accounts Receivable: $28,900
+Equipment & Computers: $12,400
+Total Assets: $75,800
+
+Accounts Payable: $8,200
+GST Payable: $4,100
+Credit Card Balance: $2,340
+Total Liabilities: $14,640
+
+Equity: $61,160
+
+=== NOTES ===
+- Acme Corp contract is month-to-month, been a client for 3 years
+- One staff member on parental leave Q3, hired temp contractor
+- Moved to cheaper office space in September
+- Considering hiring 4th consultant in new financial year
+- Owner salary included in wages at $95,000

@@ -1,0 +1,14 @@
+# Core dependencies for the AI Finance Analyst
+# Install with: pip install -r requirements.txt
+
+# For Claude API (Anthropic)
+anthropic>=0.18.0
+
+# For OpenAI API (optional alternative)
+openai>=1.12.0
+
+# For Google Gemini API (default)
+google-genai>=0.8.0
+
+# For loading environment variables securely
+python-dotenv>=1.0.0

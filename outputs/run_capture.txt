@@ -1,0 +1,60 @@
+returncode=0
+============================================================
+AI FINANCE ANALYST
+Multi-Agent Financial Analysis System
+============================================================
+
+Loading financial data...
+   Source: Sample data (no file specified)
+   Loaded 107 characters
+
+Using LLM provider: openai
+
+Starting analysis...
+
+[Manager] Initialising agents...
+[Manager] All agents initialised
+[Manager] ==================================================
+[Manager] STARTING FINANCIAL ANALYSIS PIPELINE
+[Manager] ==================================================
+[Manager] 
+📊 STEP 1/6: Normalising data...
+[Data Normalizer] Starting data normalisation...
+[Manager] 
+📈 STEP 2/6: Analysing financial performance...
+[Finance Analyst] Starting financial analysis...
+[Manager] 
+⚠️ STEP 3/6: Detecting risks...
+[Risk Detector] Starting risk detection...
+[Manager] 
+🔮 STEP 4/6: Running scenario analysis...
+[Scenario Analyst] Starting scenario analysis...
+[Manager] 
+💡 STEP 5/6: Generating recommendations...
+[Recommendation Engine] Generating recommendations...
+[Manager] 
+📝 STEP 6/6: Writing report...
+[Report Writer] Generating client report...
+[Manager] 
+==================================================
+[Manager] ANALYSIS COMPLETE
+[Manager] Duration: 2.3 seconds
+[Manager] Errors: 6
+[Manager]   - Data normalisation failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-***************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+[Manager]   - Financial analysis failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-***************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+[Manager]   - Risk detection failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-***************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+[Manager]   - Scenario analysis failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-***************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+[Manager]   - Recommendations failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-***************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+[Manager]   - Report generation failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-your-***************here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+[Manager] ==================================================
+
+Saving results...
+Full results saved to: outputs\analysis_20260414_005355.json
+
+============================================================
+QUICK SUMMARY
+============================================================
+
+Overall Financial Health: Unknown
+
+============================================================
